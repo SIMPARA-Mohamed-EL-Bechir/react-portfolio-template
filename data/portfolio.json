@@ -1,1 +1,108 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+  "name": "Mohamed El Béchir SIMPARA",
+  "headerTaglineOne": "Bonjour 👋",
+  "headerTaglineTwo": "Je suis Mohamed El Béchir SIMPARA -",
+  "headerTaglineThree": "Ingénieur Logiciel & Digitalisation",
+  "headerTaglineFour": "basé à Rabat, Maroc.",
+  "showBlog": false,
+  "darkMode": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/SIMPARA-Mohamed-EL-Bechir"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/mohamed-el-bechir-simpara"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Plateforme Automatisée de Suivi",
+      "description": "Développement d'une application web complète pour l'automatisation et le suivi des processus internes (React, Flask).",
+      "imageSrc": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/SIMPARA-Mohamed-EL-Bechir"
+    },
+    {
+      "id": "2",
+      "title": "Application Mobile Prédictive & Santé",
+      "description": "Conception d'une application mobile intégrant des modèles prédictifs intelligents pour l'analyse de données de santé.",
+      "imageSrc": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/SIMPARA-Mohamed-EL-Bechir"
+    },
+    {
+      "id": "3",
+      "title": "Classification par Deep Learning",
+      "description": "Développement et entraînement de modèles d'apprentissage profond pour la classification automatisée de données industrielles.",
+      "imageSrc": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/SIMPARA-Mohamed-EL-Bechir"
+    },
+    {
+      "id": "4",
+      "title": "Suivi de Transport en Temps Réel",
+      "description": "Architecture événementielle robuste pour le traitement de flux de données de transport scolaire en temps réel avec Apache Kafka.",
+      "imageSrc": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/SIMPARA-Mohamed-EL-Bechir"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Software Engineering",
+      "description": "Conception d'architectures applicatives modernes, performantes et scalables en s'appuyant sur des frameworks robustes."
+    },
+    {
+      "id": "2",
+      "title": "Data Science & IA",
+      "description": "Intégration et déploiement de modèles intelligents, du Deep Learning aux architectures d'agents et systèmes prédictifs."
+    }
+  ],
+  "aboutpara": "Actuellement élève ingénieur en Génie Informatique et Digitalisation à l'École Mohammadia d'Ingénieurs (EMI), je me spécialise en Ingénierie Digitale et Systèmes Intelligents. Mon parcours m'a permis de développer une expertise solide alliant le développement logiciel (React, Angular, Spring Boot), l'écosystème de la donnée et l'intelligence artificielle.",
+  "resume": {
+    "tagline": "👋 Ingénieur orienté solutions, passionné par le code et l'innovation technologique.",
+    "description": "Expériences concrètes acquises à travers des projets académiques ambitieux et des stages techniques en entreprise.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "Juillet 2025 - Août 2025",
+        "type": "Stage Technique",
+        "position": "Stagiaire Développeur chez Armada Systems",
+        "bullets": [
+          "Développement d'une plateforme d'automatisation complète.",
+          "Mise en œuvre du frontend avec React et du backend avec Flask."
+        ]
+      },
+      {
+        "id": "2",
+        "dates": "Juillet 2024 - Septembre 2024",
+        "type": "Stage d'Initiation",
+        "position": "Stagiaire Data & Dev à l'Institut National d'Oncologie",
+        "bullets": [
+          "Conception d'une application mobile dédiée au secteur de la santé.",
+          "Intégration de modèles prédictifs pour l'aide à la décision."
+        ]
+      },
+      {
+        "id": "3",
+        "dates": "Juillet 2024 - Septembre 2024",
+        "type": "Stage Technique",
+        "position": "Stagiaire Deep Learning chez 3D Smart Factory",
+        "bullets": [
+          "Recherche et implémentation d'architectures de réseaux de neurones.",
+          "Entraînement et optimisation de modèles pour la classification de données."
+        ]
+      }
+    ],
+    "education": {
+      "universityName": "École Mohammadia d'Ingénieurs (EMI), Rabat",
+      "universityDate": "En cours",
+      "universityPara": "Filière Génie Informatique et Digitalisation - Option Ingénierie Digitale et Systèmes Intelligents. Formation d'excellence axée sur le management de grands projets IT, le cloud computing, la science des données et le génie logiciel."
+    },
+    "languages": ["Java", "Python", "JavaScript", "TypeScript", "SQL"],
+    "frameworks": ["React", "Angular", "Spring Boot", "Flask", "Next.js"],
+    "others": ["Apache Kafka", "Docker", "Git", "DevOps", "CI/CD"]
+  }
+}
